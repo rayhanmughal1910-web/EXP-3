@@ -40,11 +40,22 @@ switch2.
 
 
 Direct connection: CIRCUIT DIAGRAM: 
+![circuitr ecp 3](https://github.com/user-attachments/assets/be68f26b-dc18-46da-a42b-3c230d1ef6b5)
+
+
 Tabulation:1
-	
+
+![ex 3](https://github.com/user-attachments/assets/ef4bc2a9-a74e-4986-b998-b15fe66ee371)
+
+
 Cross connection: CIRCUIT DIAGRAM:
+![ex 33](https://github.com/user-attachments/assets/e669a393-4db2-4408-a37a-a40cce4cb2db)
+
 
 Tabulation:2
+
+![ex 3 second](https://github.com/user-attachments/assets/4f9aa5dc-a4de-4542-96a5-6379e52267d8)
+
 
 RESULT:
 Thus the staircase wiring is connected and tested.
